@@ -23,6 +23,8 @@
 
 #### Git 
 ![Git](./img/4_git.png)
+![Git Operations](./img/4_2_git.png)
+![Additional Git Operations](./img/4_3_git.png)
 
 #### Github 
 ![Github Repository](./img/5_github.png)
