@@ -13,6 +13,17 @@
 ![Virtual Box](./img/0_vbox.png)
 
 #### Running Ubuntu Virtual Machine 
+
+##### Starting Up
+![VM Starting Up](./img/1_1vm.png)
+
+##### Username 
+![VM Username](./img/1_2vm.png)
+
+##### Password
+![VM Password](./img/1_3vm.png)
+
+##### Running
 ![Ubuntu VM](./img/1_vm.png)
 
 #### MobaXterm 
@@ -22,7 +33,12 @@
 ![VS Code](./img/3_vscode.png)
 
 #### Git 
-![Git](./img/4_git.png)
+
+##### Git Version 
+![Git](./img/4_0_git.png)
+
+##### Git Operations
+![Git Version](./img/4_git.png)
 ![Git Operations](./img/4_2_git.png)
 ![Additional Git Operations](./img/4_3_git.png)
 
